@@ -83,6 +83,7 @@ This repo for learning github step by step
 6. affer reslove issue automatic close issues
 7. check open issues and closed issues
 8. reopen some issues and reslove it again
+9. add template to issue depending on type of issue 
 ## step Projects
 1. create new Project
 2. treat this Project as  <span style="font-size:50px; font-weight:bold;"> agile mindSet </span>
