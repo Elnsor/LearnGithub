@@ -85,7 +85,15 @@ This repo for learning github step by step
 8. reopen some issues and reslove it again
 ## step Projects
 1. create new Project
-2. treat this Projext as **agile mindSet**
+2. treat this Project as  <span style="font-size:50px; font-weight:bold;"> agile mindSet </span>
+3. add tabel to project to view
+4. add new label and new state
+5. make new field like backlogs sprents,assignby,approved,  and add time line for begining tasks to end
+6. add issues as backlogs this issues
+7. add traking issues that each one contain some task to do
+8. filter your view see defferent view like kanban view board or roadmap view or else
+9. when you create new issues or pullrequest add it to this project automaticly
+10. 
 
 
    
