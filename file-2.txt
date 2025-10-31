@@ -1,2 +1,3 @@
 hello from test branch in remote 
 make change it file-2.txt to check conflict
+this line make conflict with same file on main
