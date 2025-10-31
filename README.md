@@ -30,6 +30,11 @@ This repo for learning github step by step
 ## step rebase 
 1. apply rebase in local
 2. apply rebae in remote
+3. check if you rebase when you in bracnh ather than main
+4. check if you rebase when you in main
+5. use rebase wit `` interactive flag
+6. edit some comit when rebase with iteractive
+7. squash some commit by rebase with etractive
 ## step restore 🚻  
 1. add new file-res.txt with check restore
 2. add thi file to stage
