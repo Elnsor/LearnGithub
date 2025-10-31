@@ -1,4 +1,5 @@
 this new file is added to test branch to check conflict if its create
+add this line after update on main branch to check conflict
 
 check conflict and how to correct it in github
 
