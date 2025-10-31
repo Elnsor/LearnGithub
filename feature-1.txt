@@ -1,0 +1,2 @@
+first data to commit in feature branch
+add some test to check edit when rebase
