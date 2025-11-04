@@ -1,0 +1,43 @@
+name: "Create New Story"
+description: "Create user story with sub Task"
+title: "[User Story]: "
+labels: ["Story"]
+assignees: [username]
+
+body:
+  - type: markdown
+    attributes:
+      value: "### 📌 Describe about this Story"
+
+  - type: input
+    id: main_goal
+    attributes:
+      label: "Story"
+      description: "What is the main goal of this issues"
+      placeholder: "The Goal is..."
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "More Describtion"
+      description: "How did you do thi story"
+      placeholder: "spacify step"
+
+  - type: checkboxes
+    id: subissues
+    attributes:
+      label: "اTasks"
+      description: "اختر المهام الفرعية التي يجب تنفيذها"
+      options:
+        - label: "Task"
+        - label: "إSubTask"
+        
+        
+        
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Notes"
+      description: "أAny ref Link"
+      placeholder: "راجع ملف `.github/workflows/deploy.yml` كمثال"
