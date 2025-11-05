@@ -1,0 +1,38 @@
+name:  "user Story Template"
+describtion: "For create user Story" 
+title: "User Story"
+labels: ["Story"]
+about: "for create user story and how to manage thim"
+assignees: ["elnsor"]
+projects: ["may-app"] 
+body:
+  - type: markdown 
+    attributes:
+      value: "ℹ️ Story information"
+  - type: input 
+    id: id_mdetail 
+    attributes:
+      label: "detail"
+      describtion: "enter breif details "
+      placeholder: "come place holder in input"
+  - type: textarea
+    id: text_id 
+    label: ""
+    describtion: "step for creation this story" 
+    placeholder: "Mor details"
+  - type: markdown
+    attributes:
+      value: "___" 
+  - type: markdown
+    attributes:
+      value: "## Add SubTask"
+  - type: textarea
+    id: text_subtask 
+    label: "SubTasks"
+    describtion: "add check list for subissues"
+    value: |
+            add tasks 
+            - [] Task1
+            - [] Task2 
+            - [] Task3 
+            - [] ... 
