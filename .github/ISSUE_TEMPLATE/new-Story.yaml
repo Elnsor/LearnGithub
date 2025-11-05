@@ -1,5 +1,5 @@
 name:  "user Story Template"
-describtion: "For create user Story" 
+description: "For create user Story" 
 title: "User Story"
 labels: ["Story"]
 about: "for create user story and how to manage thim"
@@ -13,12 +13,12 @@ body:
     id: id_mdetail 
     attributes:
       label: "detail"
-      describtion: "enter breif details "
+      description: "enter breif details "
       placeholder: "come place holder in input"
   - type: textarea
     id: text_id 
     label: ""
-    describtion: "step for creation this story" 
+    description: "step for creation this story" 
     placeholder: "Mor details"
   - type: markdown
     attributes:
@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: text_subtask 
     label: "SubTasks"
-    describtion: "add check list for subissues"
+    description: "add check list for subissues"
     value: |
             add tasks 
             - [] Task1
