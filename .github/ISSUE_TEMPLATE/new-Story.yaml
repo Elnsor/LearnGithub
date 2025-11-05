@@ -17,7 +17,7 @@ body:
       placeholder: "come place holder in input"
   - type: textarea
     id: text_id 
-    label: ""
+    label: "Descriptions"
     description: "step for creation this story" 
     placeholder: "Mor details"
   - type: markdown
