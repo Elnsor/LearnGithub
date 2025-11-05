@@ -7,11 +7,11 @@ assignees:
 projects: ["my-app"]
 body:
     - type: input
-    id: main_issue_title
-    attributes:
-      label: "Name of this Story"
-      description: "Nice Clear Titel"
-      placeholder: "Name of Story"
+      id: main_issue_title
+      attributes:
+        label: "Name of this Story"
+        description: "Nice Clear Titel"
+        placeholder: "Name of Story"
 
   - type: textarea
     id: main_issue_description
