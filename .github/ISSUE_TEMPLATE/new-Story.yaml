@@ -2,7 +2,6 @@ name:  "user Story Template"
 description: "For create user Story" 
 title: "User Story"
 labels: ["Story"]
-about: "for create user story and how to manage thim"
 assignees: ["elnsor"]
 projects: ["may-app"] 
 body:
