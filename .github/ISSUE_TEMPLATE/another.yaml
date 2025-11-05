@@ -1,11 +1,10 @@
-name: Story for Project my-app
+name: "Story for Project my-app"
 description: "Use this template to create new story with some Tasks"
 title: "[User Story]: "
 labels: ["Story"]
 assignees:
   - "{{ elnsor }}"  
 projects: ["my-app"]
-
 body:
     - type: input
     id: main_issue_title
